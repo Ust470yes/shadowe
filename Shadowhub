@@ -1,0 +1,1 @@
+Config = { namescript = "shadowHub",--Tên Script logoscript = "118941840063994",--ID Logo Script tacgia = "tạff"-- Tên Tác Giả taff} loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
